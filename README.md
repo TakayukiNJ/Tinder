@@ -1,6 +1,5 @@
 # Tinder
 右スワイプ自動化
-https://tinder.com/app/recs
 
   1. tinder.js をご自身のWebサイトでディベロッパーウィンドウを開き、consoleにコピペ。
   2. ENTER を押す。
